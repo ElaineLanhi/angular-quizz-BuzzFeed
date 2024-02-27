@@ -1,27 +1,24 @@
-# BuzzFeed
+# Project BuzzFeed 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+O projeto foi um clone do quizz do BuzzFeed, baseado pelo Bootcamp da DIO de Desenvolvimento Front-end com Angular.
 
-## Development server
+# Sobre o projeto 🦸‍♀️
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+* O projeto foi desenvolvido utilizando: **HTML, CSS, JavaScript, Typescript e Angular**.
 
-## Code scaffolding
+* No Angular foi criado *components* e *pages* para agregar no desenvolvimento.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* O quizz é composto de 5 perguntas, para o usuário responder o que faria se tivesse super-poderes. E de acordo com as respostas do usuário, no final irá dizer se ele(a) seria um Herói ou Vilão.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+![buzzfeed](https://github.com/ElaineLanhi/angular-quizz-BuzzFeed/assets/113427592/9f7e0271-450a-4607-aa0a-7692b05ac86c)
 
-## Running unit tests
+![buzzfeed2](https://github.com/ElaineLanhi/angular-quizz-BuzzFeed/assets/113427592/ebb72139-4751-4128-b3ad-3659132d95e8)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![buzzfeed3](https://github.com/ElaineLanhi/angular-quizz-BuzzFeed/assets/113427592/03d4b27d-e41e-491a-a894-b7e589cab6dd)
 
-## Running end-to-end tests
+![buzzfeed4](https://github.com/ElaineLanhi/angular-quizz-BuzzFeed/assets/113427592/df9f503f-4f4d-4cd1-8e0d-46141b54c29f)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+![buzzfeed5](https://github.com/ElaineLanhi/angular-quizz-BuzzFeed/assets/113427592/b68cd1a8-3ff0-4329-b554-065c68202af3)
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![buzzfeed6](https://github.com/ElaineLanhi/angular-quizz-BuzzFeed/assets/113427592/72e30bb2-9156-4040-9c84-024cd1e09a9f)
